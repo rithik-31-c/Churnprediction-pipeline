@@ -1,0 +1,45 @@
+|-- .env.example
+|-- .gitignore
+|-- .streamlit_config.toml
+|-- app.py
+|-- clear_db.py
+|-- config.py
+|-- database.py
+|-- docker-compose.yml
+|-- Dockerfile
+|-- evaluate.py
+|-- feature_engineering.py
+|-- generate_sample_data.py
+|-- LICENSE
+|-- pages_init.txt
+|-- page_dashboard.py
+|-- page_eda.py
+|-- page_history.py
+|-- page_prediction.py
+|-- page_prediction_complete.py
+|-- page_prediction_fixed.py
+|-- page_prediction_new.py
+|-- page_settings.py
+|-- page_training.py
+|-- predict.py
+|-- preprocessing.py
+|-- quickstart.bat
+|-- quickstart.sh
+|-- QUICK_START_INTERACTIVE.py
+|-- README.md
+|-- readme_references
+    |-- DEPLOYMENT_GUIDE.md
+    |-- INDEX.md
+    |-- INSTANT_START_GUIDE.md
+    |-- PIPELINE_FLOW.md
+    |-- PIPELINE_SUMMARY.md
+    |-- PROJECT_SUMMARY.md
+    |-- STREAMLIT_QUICK.md
+    |-- USER_GUIDE.md
+|-- requirements.txt
+|-- reset_db.py
+|-- run_full_pipeline.py
+|-- src_auth.py
+|-- train.py
+|-- upload_page.py
+|-- utils.py
